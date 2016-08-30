@@ -22,11 +22,15 @@ This approach is based on "a fast iterative algorithm for generating set partiti
 So such a partition called "codeword" from above like [1, 2, 1, 3] means:
 
  a  b  c  d
+
 [1, 2, 1, 3]
 
 a is in partition 1
+
 b is in partition 2
+
 c is in partition 1
+
 d is in partition 3
 
 There are 3 files:
