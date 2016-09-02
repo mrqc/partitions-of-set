@@ -36,4 +36,4 @@ d is in partition 3
 There are 3 files:
 partitions.setpart.py implements both proposed algorithms from the paper mentioned above. But they do not work!
 
-partitions.tetrabase.recursive.py and partitions.tetrabase.iterative.py implement a new algorithm in the first the implementation is recursive in the latter one its iterative. Sure, the iterative one is faster. Further with this algorithm it is possible to define the maximum amount of partitions.
+partitions.counting.recursive.py and partitions.counting.iterative.py implement a new algorithm in the first the implementation is recursive in the latter one its iterative. Sure, the iterative one is faster. Further with this algorithm it is possible to define the maximum amount of partitions.
