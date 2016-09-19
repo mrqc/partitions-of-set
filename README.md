@@ -33,7 +33,6 @@ c is in partition 1
 
 d is in partition 3
 
-There are 3 files:
-partitions.setpart.py implements both proposed algorithms from the paper mentioned above. But they do not work!
-
-partitions.counting.recursive.py and partitions.counting.iterative.py implement a new algorithm in the first the implementation is recursive in the latter one its iterative. Sure, the iterative one is faster. Further with this algorithm it is possible to define the maximum amount of partitions.
+There are some py files:
+All implement different algorithms from the net (papers, repos, ...) some are not working because of incompleteness and errors they provided.
+The main files for this project are partitions.counting.recursive.py and partitions.counting.iterative.py. They implement a new algorithm: in the first the implementation is recursive in the latter one its iterative. Sure, the iterative one is faster. Further with this algorithm it is possible to define the maximum amount of partitions.
